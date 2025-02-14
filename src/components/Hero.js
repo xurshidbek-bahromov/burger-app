@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hero() {
   return (
-    <div className="bg-gray-800 py-20 h-screen px-28">
+    <div className="bg-custom-background bg-cover bg-center bg-gray-800 py-20 h-screen px-28">
       <div className="container mx-auto text-start">
         <h1 className="text-[72px] font-bold text-green-600">Большой гамбургер</h1>
         <h1 className="text-[36px] mb-4 text-green-600 my-2">ГОВЯДИНА</h1>

@@ -4,7 +4,7 @@ function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-gray-800 text-white px-28 py-3">
+    <nav className=" bg-gray-800 text-white px-28 py-3">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-lg font-bold bg-green-800 rounded-[5px] px-6 py-[2px]">Street88</div>
         <div className="md:hidden">
